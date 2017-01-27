@@ -1,0 +1,5 @@
+You rifle through the pile of blankets, searching for 
+anything that might be of use to you.  Unfortunately, there
+is nothing you can use.  Not even another string!
+
+Press enter to continue...

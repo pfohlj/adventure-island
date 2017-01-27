@@ -1,0 +1,7 @@
+You reach down into the water and attempt to grab the fish
+with your bare hands.  No matter how hard you try, the fish 
+evades your grasp. Despite your agression, the fish
+continnues to swim by your feet. If only you had something
+to catch the fish with!
+
+Press enter to continue....

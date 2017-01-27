@@ -1,0 +1,8 @@
+=========================================
+| What would you like to interact with? |
+=========================================
+| 1. The crumbling BOOKSHELF.           |
+| 2. The ratty old CARPET.              |
+| 3. The pile of BLANKETS.              |
+| 4. CANCEL and return to the menu.     |
+=========================================

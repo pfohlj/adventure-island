@@ -1,0 +1,6 @@
+You search through the pile of blankets, trying to find
+anything that might be of value to you.  As you are about
+to give up, you notice a piece of string laying under the
+bottom blanket.  By moving the whole pile, you discover a
+ball of string. You pick up the string and attempt to place 
+it in your bag.

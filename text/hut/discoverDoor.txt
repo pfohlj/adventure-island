@@ -1,0 +1,7 @@
+As you investigate the old bookshelf, you notice some sort 
+of hinge in the wall behind it.  You slide the bookshelf to
+the side and by doing so reveal a secret door!  It appears
+that the door is secured by a gold lock. No matter how hard 
+you press, the door will not budge. How will you open it?
+
+Press enter to continue...

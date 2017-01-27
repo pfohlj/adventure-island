@@ -1,0 +1,7 @@
+GAME OVER!
+
+You've run out of available actions!  In order to discover
+the Island's secret, you must complete the game in the 
+alloted number of actions.  Better luck next time!
+
+Press enter to continue...

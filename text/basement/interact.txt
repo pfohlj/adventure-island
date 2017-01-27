@@ -1,0 +1,6 @@
+=========================================
+| What would you like to interact with? |
+=========================================
+| 1. The intricately carved BOX.        |
+| 2. CANCEL and return to the menu.     |
+=========================================

@@ -1,0 +1,11 @@
+You are standing in the middle of a jungle clearing, 
+surrounded by what appears to be the ruins of some ancient
+civilization.  As you explore, you notice there seems to be 
+a central area around which all of the structures are built.
+
+When you reach the center of the ruins, you can see an 
+intricately carved totem.  Past the totem is a opening, sunk
+into the ground.  On the other side of the center clearing
+is a golden altar.
+
+Press enter to continue...

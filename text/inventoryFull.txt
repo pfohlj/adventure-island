@@ -1,0 +1,5 @@
+
+Your inventory is full!  
+You must remove an item to add this one.
+
+Press enter to continue...

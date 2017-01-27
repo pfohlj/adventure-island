@@ -1,0 +1,7 @@
+You approach the carpet, carefully lifting back its corner
+to see what it covers.  Surprisingly, you discover nothing.
+Nothing!  Not even a bug.  The more you think about it, the
+more you realize that this island's silence is errie.  Are
+you the only living thing on the island?
+
+Press enter to continue...

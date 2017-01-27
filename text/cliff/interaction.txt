@@ -1,0 +1,7 @@
+=========================================
+| What would you like to interact with? |
+=========================================
+| 1. The ROCK PILE in the middle.       |
+| 2. The HOOKS on the edge of the cliff.|
+| 3. CANCEL and return to the menu.     |
+=========================================

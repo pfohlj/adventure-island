@@ -1,0 +1,8 @@
+=========================================
+| Where would you like to go?           |
+=========================================
+| 1. Down the path marked "Skatolo."    |
+| 2. Down the overgrown jungle path.    |
+| 3. Down the path marked "Krutajo."    |
+| 4. Cancel and return to the menu.     |
+=========================================

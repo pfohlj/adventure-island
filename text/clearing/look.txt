@@ -1,0 +1,12 @@
+You're standing in a large jungle clearing with a huge 
+totem in its center. Next to the totem is a broken wooden 
+box.
+
+On all four sides of the totem are paths leading off into
+the jungle. Each path is marked by a sign with one of
+four words on it. The sign by the northern path says 
+"Casucha," the sign by the eastern path says "Krutajo," 
+the sign by the southern path says "Ruinoj," and the 
+sign by the western path says "Skatolo."
+
+Press enter to continue...

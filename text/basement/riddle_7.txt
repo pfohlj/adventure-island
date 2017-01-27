@@ -1,0 +1,8 @@
+
+You have three stoves: a gas stove, a wood stove, and a coal stove, 
+but only one match. Which should you light first?
+
+1. The wood Stove
+2. The gas stove
+3. The match
+4. The coal stove

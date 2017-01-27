@@ -1,0 +1,7 @@
+=========================================
+| What would you like to interact with? |
+=========================================
+| 1. The huge TOTEM.                    |
+| 2. The broken BOX.                    |
+| 3. CANCEL and return to the menu.     |
+=========================================

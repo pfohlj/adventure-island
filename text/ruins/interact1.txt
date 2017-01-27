@@ -1,0 +1,8 @@
+=========================================
+| What would you like to interact with? |
+=========================================
+| 1. The intricately carved TOTEM.      |
+| 2. The OPENING in the ground.         |
+| 3. The GOLDEN ALTAR.                  |
+| 4. CANCEL and return to the menu.     |
+=========================================

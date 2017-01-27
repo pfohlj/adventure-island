@@ -1,0 +1,8 @@
+You approach the wall of levers and realize that the four
+words at the tops of the slots are in another language.  
+Each slot has one word at its top and four english words
+to the left of the slot.  It looks like you need to 
+select the correct translation.  You have a strange feeling
+that you have seen these words somewhere before...
+
+Press enter to begin translating...

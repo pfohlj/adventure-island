@@ -1,0 +1,7 @@
+After descending the stairs, you arrive in a dark basement.
+The floor and walls are made of dirt and the walls and the 
+smell of must and mold fills the room.  Across from you
+is an intricately carved box perched on a pedistal.  It 
+appears to be unlocked and easily accessible.
+
+Press enter to continue...

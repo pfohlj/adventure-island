@@ -1,0 +1,13 @@
+As you investigate the old bookshelf, you notice some sort 
+of hinge in the wall behind it.  You slide the bookshelf to
+the side and by doing so reveal a secret door!  It appears
+that the door is locked.  As you look closer, you notice 
+the lock is a gold lock.  Could it be that the key you 
+received from the fish unlocks this door?
+
+You remove the gold key from your bag and slide it into the
+lock.  You turn it to the side, and with a satisfying click,
+the the locks releases and the door swings open, revealing 
+a set of stairs descending into the dark.
+
+Press enter to continue...

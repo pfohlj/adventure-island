@@ -1,0 +1,9 @@
+=========================================
+| Where would you like to go?           |
+=========================================
+| 1. Into the door with the gold lock.  | 
+| 2. Down the path marked "Skatolo."    |
+| 3. Down the path marked "Krutajo"     |
+| 4. Down the overgrown jungle path.    |
+| 5. Cancel and return to the menu.     |
+=========================================

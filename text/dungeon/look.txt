@@ -1,0 +1,15 @@
+You're standing in what seems to have been a large 
+underground dungeon.  The walls, floor, and cieling are 
+made of old, moldering stones and the room is filled with 
+the stench of mold and rot.  As you peer around the room,
+you observe that it is quite empty except for some strange 
+objects embedded in the far wall.
+
+As you get closer, you observe that the wall has a series of
+long, vertical slots embedded in it.  Each slot has an old
+wooden lever pushed all the way to the top of the slot. 
+Above each of the slots is a familiar looking word, and to 
+the left of the slots are a series of numbered english
+words.  What could this be?
+
+Press enter to continue...

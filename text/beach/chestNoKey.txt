@@ -1,0 +1,7 @@
+You try and open the chest but you quickly realize that it
+is locked.  It appears that the chest has a silver lock
+holding its lid closed.  The movement of trying to open the
+box caused something to thud around inside.  Perhaps its 
+something useful!
+
+Press enter to continue...

@@ -1,0 +1,8 @@
+=========================================
+| What would you like to interact with? |
+=========================================
+| 1. The stand of nearby PALM TREES.    |
+| 2. The partially buried CHEST.        |
+| 3. The pile of DRIFTWOOD by the water.|
+| 4. CANCEL and return to the menu.     |
+=========================================

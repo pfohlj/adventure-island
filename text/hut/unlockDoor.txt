@@ -1,0 +1,6 @@
+You remove the gold key from your bag and slide it into the
+lock.  You turn it to the side, and with a satisfying click,
+the the locks releases and the door swings open, revealing 
+a set of stairs descending into the dark.
+
+Press enter to continue...

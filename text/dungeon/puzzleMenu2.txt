@@ -1,0 +1,9 @@
+The word at the top of the second slot reads "Krutajo."
+Which slot will you choose?
+
+==============
+| 1. Cliff   |
+| 2. Arrow   |
+| 3. Whisper |
+| 4. Cloud   |
+==============

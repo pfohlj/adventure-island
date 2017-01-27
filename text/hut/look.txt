@@ -1,0 +1,11 @@
+Directly in front of you, you can see a old, crumbling hut.  
+It looks as it if has been abandoned for ages.  Through the 
+rotting walls you can see an old bookshelf, a ratty carpet, 
+and a pile of blankets.
+
+Across the clearing is another path marked with a sign reading
+"Krutajo."  The path you just emerged from is marked with a
+sign reading "Skatolo." Across from the hut is an overgrown
+path leading into the jungle.
+
+Press enter to continue...

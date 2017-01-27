@@ -1,0 +1,8 @@
+You approach the mass of seaweed and notice more of the 
+color changing fish.  Each of these fish shifts colors in the
+same pattern as the one that swims by your feet. Green, 
+purple, orange, yellow, and then teal.  Unlike the first fish
+you found, these are not so friendly and avoid you at all
+costs.
+
+Press enter to continue...

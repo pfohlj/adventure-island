@@ -1,0 +1,6 @@
+You unlock the box's silver lock with the silver key in your
+inventory.  As you open the lid, the sunlight reflects off 
+something inside.  Once the lid is open, you realize that
+you've discovered a Machete!  You reach inside, pick it up, 
+and go to place it in your bag.
+

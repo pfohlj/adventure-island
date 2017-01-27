@@ -1,0 +1,8 @@
+As you emerge from the dungeon and step into the ruins, you
+are greeted by the thunderous noises of crashing, grating,
+and screeching.  It seems to be coming from the center of the
+island where the huge totem is. As the noise fades away,
+you feel a single WHUMP ripple through the ground.  The
+silence that follows the commotion is loaded with tension.
+
+Press enter to continue...

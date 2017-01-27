@@ -1,0 +1,9 @@
+The word at the top of the fourth slot reads "Ruinoj."
+Which slot will you choose?
+
+==============
+| 1. Wheel   |
+| 2. Fish    |
+| 3. Ruins   |
+| 4. Parrot  |
+==============

@@ -1,0 +1,9 @@
+=========================================
+| Where would you like to go?           |
+=========================================
+| 1. Down the path marked "Casucha."    | 
+| 2. Down the path marked "Krutajo."    |
+| 3. Down the path marked "Ruinoj."     |
+| 4. Down the path marked "Skatolo."    |
+| 5. Cancel and return to the menu.     |
+=========================================

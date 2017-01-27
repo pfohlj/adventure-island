@@ -1,0 +1,13 @@
+
+Three playing cards in a row. 
+Can you name them with these clues?
+There is a two to the right of a king.
+A diamond will be found to the left of a spade.
+An ace is to the left of a heart.
+A heart is to the left of a spade.
+Now, identify all three cards.
+
+1. King of Clubs, Three of Spades, Ace of Diamonds.
+2. Four of Hearts, Ace of Clubs, Ace of Diamonds.
+3. Ace of Diamonds, King of Hearts, Two of Spades.
+4. Queen of Spades, Ten of Hearts, Four of Diamonds.

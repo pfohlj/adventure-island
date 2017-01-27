@@ -1,0 +1,5 @@
+You proceed to place the colored stones in teh holes again
+but this time there seems to be no response.  The puzzle
+seems to be inactive.
+
+Press enter to continue...

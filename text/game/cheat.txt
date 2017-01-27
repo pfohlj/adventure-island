@@ -1,0 +1,71 @@
+ ______           ___                        __                 ___  
+/\__  _\         /\_ \                      /\ \              /'___\ 
+\/_/\ \/     ____\//\ \      __      ___    \_\ \        ___ /\ \__/ 
+   \ \ \    /',__\ \ \ \   /'__`\  /' _ `\  /'_` \      / __`\ \ ,__\
+    \_\ \__/\__, `\ \_\ \_/\ \L\.\_/\ \/\ \/\ \L\ \    /\ \L\ \ \ \_/
+    /\_____\/\____/ /\____\ \__/.\_\ \_\ \_\ \___,_\   \ \____/\ \_\ 
+    \/_____/\/___/  \/____/\/__/\/_/\/_/\/_/\/__,_ /    \/___/  \/_/ 
+
+ /'\_/`\                 /\ \__                __                    
+/\      \  __  __    ____\ \ ,_\    __   _ __ /\_\     __    ____    
+\ \ \__\ \/\ \/\ \  /',__\\ \ \/  /'__`\/\`'__\/\ \  /'__`\ /',__\   
+ \ \ \_/\ \ \ \_\ \/\__, `\\ \ \_/\  __/\ \ \/ \ \ \/\  __//\__, `\  
+  \ \_\\ \_\/`____ \/\____/ \ \__\ \____\\ \_\  \ \_\ \____\/\____/  
+   \/_/ \/_/`/___/> \/___/   \/__/\/____/ \/_/   \/_/\/____/\/___/   
+               /\___/                                                
+               \/__/                                                 
+=======================================================================
+|                       ~ CHEAT (Seriously?) ~                        |
+=======================================================================
+| STEP 1) Retrieve the STRING by interacting with the BLANKETS in the |
+| hut* and then retrieve the HOOK by interacting with the ROCK PILE   |
+| on the CLIFF.							      |
+| STEP 2) Interact with the COLORED FISH on the reef and gain the     |
+| GOLD KEY.							      |
+| STEP 3) Interact with the BOOK SHELF in the HUT.                    |
+| STEP 4) Move to the hut's BASEMENT and interact with the BOX to     |
+| begin solving the riddle**. Keep trying until you solve 3 riddles   |
+| correctly.  Doing so will let you gain the SILVER KEY.              |
+| STEP 5) Move to the beach and interact with the LOCKED CHEST in     |
+| order to gain the MACHETE.					      |
+| STEP 6) Use the MACHETE to move on the overgrownpath to the         |
+| STEP 7) Interact with the broken box to gain the ROPE LADDER.  You  |
+| will need to make room in your inventory.  You can safely get rid   |
+| of the HOOK, STRING, GOLD KEY, or SILVER KEY at this point.         |
+| STEP 8) Move to the cliffs and move to the cliff edge.  This will   |
+| allow you to travel to the secret cave below.                       |
+| STEP 8) Interact with the colored rocks and solve the puzzle        |
+| puzzle to gain the RED ORB.  The correct answers are:               |
+|      - 1 = Green                                                    |
+|      - 2 = Purple                                                   |
+|      - 3 = Orange                                                   |
+|      - 4 = Yellow                                                   |
+|      - 5 = Teal                                                     |  
+| STEP 9) Move to the ruins and interact with the TOTEM to reveal the |
+| crumbling stairs leading to the dungeon.                            |
+| STEP 10) Move to the dungeon and interact with the LEVERS in order  |
+| to start solving the puzzle.  Correctly translate* the words to     |
+| gain the BLUE ORB.                                                  |
+| STEP 10) Travel down the jungle path to the center of the island    |
+| which should now have been transformed into the temple.  Interact   |
+| 								      |
+| NOTE: You must follow the instructions exactly as written in order  |
+| to beat the game.  If you remove an item that is needed, omit a     |
+| step, or do something differently, these will not work.  That is    |
+| not to say that there aren't other ways to win, but that these      |
+| instructions are written specifically and intentionally.            |
+| 								      |
+| * The signs on the trails are all Esperanto words for the location  |
+|   that the trail leads to.  The translations of the words are as    |
+|   follows:                                                          |
+|        - Skatolo = Beach                                            |
+|        - Casucha = Hut                                              |
+|        - Krutajo = Cliff                                            |
+|        - Ruinoj = Ruins                                             |
+|   You will need these translations for a puzzle later in the game.  |
+| ** There are 10 riddles that are chosen randomly at runtime.  The   |
+|  answers should be fairly obvious.  If you fail, there is no        |
+|  penalty for trying again (aside from using an action).             |
+=======================================================================
+
+Press enter to return to the main menu...

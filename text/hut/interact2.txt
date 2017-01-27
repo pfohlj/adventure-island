@@ -1,0 +1,7 @@
+=========================================
+| What would you like to interact with? |
+=========================================
+| 1. The ratty old CARPET.              |
+| 2. The pile of BLANKETS.              |
+| 3. CANCEL and return to the menu.     |
+=========================================

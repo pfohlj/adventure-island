@@ -1,0 +1,61 @@
+ ______           ___                        __                 ___  
+/\__  _\         /\_ \                      /\ \              /'___\ 
+\/_/\ \/     ____\//\ \      __      ___    \_\ \        ___ /\ \__/ 
+   \ \ \    /',__\ \ \ \   /'__`\  /' _ `\  /'_` \      / __`\ \ ,__\
+    \_\ \__/\__, `\ \_\ \_/\ \L\.\_/\ \/\ \/\ \L\ \    /\ \L\ \ \ \_/
+    /\_____\/\____/ /\____\ \__/.\_\ \_\ \_\ \___,_\   \ \____/\ \_\ 
+    \/_____/\/___/  \/____/\/__/\/_/\/_/\/_/\/__,_ /    \/___/  \/_/ 
+
+ /'\_/`\                 /\ \__                __                    
+/\      \  __  __    ____\ \ ,_\    __   _ __ /\_\     __    ____    
+\ \ \__\ \/\ \/\ \  /',__\\ \ \/  /'__`\/\`'__\/\ \  /'__`\ /',__\   
+ \ \ \_/\ \ \ \_\ \/\__, `\\ \ \_/\  __/\ \ \/ \ \ \/\  __//\__, `\  
+  \ \_\\ \_\/`____ \/\____/ \ \__\ \____\\ \_\  \ \_\ \____\/\____/  
+   \/_/ \/_/`/___/> \/___/   \/__/\/____/ \/_/   \/_/\/____/\/___/   
+               /\___/                                                
+               \/__/                                                 
+=======================================================================
+|                        ~ INSTRUCTIONS ~                             |
+=======================================================================
+| INTRODUCTION:							      |
+|								      |
+| Island of Mysteries places you, an adventurer, on a mysterious      |
+| island. everywhere you turn, the island surprises you with hidden   |
+| rooms, secret items, and puzzles to solve!  It's up to you to       |
+| discover the island's secrets and figure out the true secret of the |
+| island. 							      |
+|								      |
+| GAMEPLAY:							      |
+|								      |
+| Island of myseries provides you with four primary actions: LOOK,    |
+| MOVE, INTERACT, and VIEW / MANAGE INVENTORY.  Every time you use    |
+| MOVE and INTERACT, it costs you 1 action.  You have a total of 100  |
+| actions that you can take before the game ends.  LOOK and VIEW /    |
+| MANAGE INVENTORY are "free" actions.  Also, if you chose to MOVE or |
+| INTERACT but then cancel that action, it does not count against you |  
+|								      |
+| LOOK: gives you a detailed description of your current location.    |
+| Do not forget to LOOK at each new place you discover.  The          |
+| information you gain by doing so may prove valuable later in the    |
+| game.	Remember, LOOKs are free actions.                             |
+|								      |
+| MOVE: as the name implies, allows you to move around the island and |
+| discover new locations.  Pay attention though! Some locations may   |
+| be inaccessible until you discover or posess certain items.         |
+|								      |
+| INTERACT allows you to interact with objects and spaces in the      |
+| various locations where you find yourself. Sometimes interacting    |
+| will provide you with valuable information. Other times, if you     |
+| have the correct items in your inventory, interacting will allow    |
+| you to gain valuable new items or unlock secret locations.          |
+|								      |
+| VIEW / MANAGE INVENTORY: Allows you to view the items currently in  |
+| your inventory and if needed, remove an item.  You inventory can    |
+| hold a maximum of 5 itmes.  If you remove an item from your         |
+| inventory, it will return to the original locaiton you gained it    |
+| from.  How, you ask? Magic!					      |
+|								      |
+| GOOD LUCK!							      |
+=======================================================================
+
+Press enter to return to the main menu...

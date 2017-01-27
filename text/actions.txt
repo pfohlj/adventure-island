@@ -1,0 +1,10 @@
+
+=========================================
+|           ACTIONS MENU                |
+=========================================
+| 1. LOOK at the area around yourself.  |
+| 2. INTERACT with your surroundings.   |
+| 3. MOVE to another location.          |
+| 4. VIEW / MANAGE your inventory       |
+| 5. QUIT and return to the main menu.  |
+=========================================

@@ -1,0 +1,9 @@
+The word at the top of the third slot reads "Casucha."
+Which slot will you choose?
+
+==============
+| 1. Horse   |
+| 2. Cow     |
+| 3. Tree    |  
+| 4. Hut     |
+==============

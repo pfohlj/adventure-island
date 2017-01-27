@@ -1,0 +1,7 @@
+
+If you have three oranges and you take away two, how many will you have?
+
+1. One
+2. Four
+3. Three
+4. Two

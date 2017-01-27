@@ -1,0 +1,7 @@
+You approach the skeleton and take the piece of paper 
+crumpled in its hand.  As you unfold it, you see a crude 
+drawing of a fish at the top of the page.  Beneath the fish
+is the number one, with the word "Green" written next to it.
+What could this mean?
+
+Press enter to continue...

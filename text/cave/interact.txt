@@ -1,0 +1,8 @@
+=========================================
+| What would you like to interact with? |
+=========================================
+| 1. The strange COLORED ROCKS.         |
+| 2. The SKELETON.                      |
+| 3. The PAINTINGS on the wall.         |
+| 4. CANCEL and return to the menu.     |
+=========================================

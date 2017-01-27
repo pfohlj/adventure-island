@@ -1,0 +1,10 @@
+You walk over to the bottle and pick it up.  Pushed into its
+opening is an old cork and inside it appears to be a leather
+map.  You pull out the cork and remove the map.
+
+After unrolling the map, you realize that it has the the image
+of an island on it.  Around the island are four different
+locations and where its middle would be a question mark is
+drawn.  Could this be the island you are on?
+
+Press enter to continue...

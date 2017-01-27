@@ -1,0 +1,8 @@
+=========================================
+| What would you like to interact with? |
+=========================================
+| 1. The beautiful fish by your feet.   |
+| 2. The bottle floating in the water.  |
+| 3. The mat of seaweed by your side.   |
+| 4. Cancel and return to the menu.     |
+=========================================

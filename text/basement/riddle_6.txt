@@ -1,0 +1,17 @@
+
+Alice is walking throught the forest of forgetfulness. 
+She wants to know what day of the week it is. She stops and asks 
+a lion and a unicorn. Now the lion lies all of the time on Monday, 
+Tuesday, and Wednesday. The unicorn always lies on Thursday, Friday 
+and Saturday.
+
+Alice asks the lion what day it is, he says, "Well, yesterday was 
+one of my lying days." Alice can't figure it out just from the lion's 
+answer so she asks the unicorn and the unicorn says, "Yesterday was 
+also one of my lying days." 
+What day is it?
+
+1. Sunday
+2. Wednesday
+3. Thursday
+4. Tuesday

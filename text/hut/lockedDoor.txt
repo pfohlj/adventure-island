@@ -1,0 +1,5 @@
+You press against the door, yet no matter how hard you try, it
+will not budge.  The gold lock is stronger than you are. You must 
+find a way to unlock the door.
+
+Press enter to continue...

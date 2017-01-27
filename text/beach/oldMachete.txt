@@ -1,0 +1,7 @@
+You insert the silver key in your inventory into the box's 
+silver lock. Somehow, the machete has ended up back where 
+you first found it. "Is this island magic?" you think to 
+yourself.  "If so, is it friendly or is it dangerous magic?"
+You reach into the box, pick up the machete, and go to
+place it in your bag.
+

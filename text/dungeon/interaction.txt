@@ -1,0 +1,6 @@
+=========================================
+| What would you like to interact with? |
+=========================================
+| 1. The wall of LEVERS.                |
+| 2. CANCEL and return to the menu.     |
+=========================================

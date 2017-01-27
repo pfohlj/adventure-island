@@ -1,0 +1,5 @@
+You search through the rocks but find nothing else that 
+proves to be useful.  It would appear that the island is
+host to only one hook!
+
+Press enter to continue...

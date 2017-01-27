@@ -1,0 +1,4 @@
+You unlock the box's silver lock with the silver key in your
+inventory.  As expected, the box is empty.
+
+Press enter to continue...
